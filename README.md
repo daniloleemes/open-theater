@@ -17,7 +17,4 @@ With it's new components such as Room and ViewModels the access to database and 
 > To parse JSON to POJOs
 
 ## Gallery
-![alt text](https://github.com/daniloleemes/open-theater/blob/development/Screens/home.png "Main Screen")
-![alt text](https://github.com/daniloleemes/open-theater/blob/development/Screens/detail.png "Main Screen")
-![alt text](https://github.com/daniloleemes/open-theater/blob/development/Screens/detail-2.png "Main Screen")
-![alt text](https://github.com/daniloleemes/open-theater/blob/development/Screens/full-list.png "Main Screen")
+<img src="https://github.com/daniloleemes/open-theater/blob/development/Screens/home.png" width="200">  <img src="https://github.com/daniloleemes/open-theater/blob/development/Screens/detail.png" width="200">  <img src="https://github.com/daniloleemes/open-theater/blob/development/Screens/detail-2.png" width="200">  <img src="https://github.com/daniloleemes/open-theater/blob/development/Screens/full-list.png" width="200">
